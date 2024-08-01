@@ -58,5 +58,5 @@ for i in range(160 + 40):
 # Oculta el cursor 
 turtle.hideturtle()
 
-# Cierra la ventana
+# Cerrar ventana
 turtle.exitonclick()
