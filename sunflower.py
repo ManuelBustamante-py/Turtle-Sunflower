@@ -55,8 +55,8 @@ for i in range(160 + 40):
         turtle.forward(70)
         turtle.end_fill()
 
-# Oculta el cursor 
+# Ocultar el cursor
 turtle.hideturtle()
 
-# Cerrar ventana
+# Cerrar ventana al clickear
 turtle.exitonclick()
