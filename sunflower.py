@@ -60,3 +60,5 @@ turtle.hideturtle()
 
 # Cerrar ventana al clickear
 turtle.exitonclick()
+
+
